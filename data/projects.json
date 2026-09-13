@@ -51,6 +51,66 @@
         "Tailwind CSS"
       ],
       "demo": "https://fomo.party"
+    },
+    {
+      "title": "Based Turbo (Backend and Smart Contract)",
+      "subTitle": "Web3 Enabled Game",
+      "image": "/portfolio/based_turbo.png",
+      "description": "A blockchain racing game where players race for crypto prizes in a fair, skill-based competition. Browser-friendly gameplay and customizable vehicles let players compete to become The Drift King.",
+      "tech": [
+        "Node.js",
+        "Solidity",
+        "JavaScript",
+        "WalletConnect",
+        "Web3.js",
+        "IPFS"
+      ],
+      "demo": "https://play.basedturbo.io"
+    },
+    {
+      "title": "Web3Sol",
+      "subTitle": "Smart Contract Interaction Tool",
+      "image": "/portfolio/web3sol.png",
+      "description": "A web application for interacting with smart contracts on EVM-based blockchains. Provide an ABI and contract address to inspect and call contract functions directly from the browser.",
+      "tech": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Web3.js",
+        "WalletConnect"
+      ],
+      "demo": "https://web3sol.surge.sh"
+    },
+    {
+      "title": "Payout Pursuit (Backend and Smart Contract)",
+      "subTitle": "Multichain Web3 Game",
+      "image": "/portfolio/payout_pursuit.png",
+      "description": "A multichain GameFi racing game where players compete for crypto prizes in fair, skill-based races. Browser-friendly gameplay and customizable vehicles make the competition accessible to every player.",
+      "tech": [
+        "Node.js",
+        "Solidity",
+        "JavaScript",
+        "WalletConnect",
+        "Web3.js",
+        "IPFS"
+      ],
+      "demo": "https://play.payoutpursuit.com"
+    },
+    {
+      "title": "Drift Token",
+      "subTitle": "Decentralized Gaming Platform",
+      "image": "/portfolio/drift_token.png",
+      "description": "A Web3 game studio platform where gamers use DRIFT for NFT skins and custom features, while stakers can earn and boost liquidity from game revenue.",
+      "tech": [
+        "React",
+        "Cross-Chain",
+        "Bootstrap",
+        "JavaScript",
+        "Web3.js",
+        "Solidity",
+        "Chainlink"
+      ],
+      "demo": "https://drifttoken.io"
     }
   ],
   "moreProjects": [
